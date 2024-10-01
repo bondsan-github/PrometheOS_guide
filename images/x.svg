@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="67.73333mm"
+   height="67.73333mm"
+   viewBox="0 0 67.73333 67.73333"
+   version="1.1"
+   id="svg4824"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="x.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4826"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.42850028"
+     inkscape:cx="157.52615"
+     inkscape:cy="220.53661"
+     inkscape:window-width="1280"
+     inkscape:window-height="668"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs4821" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-63.692587,-90.24352)">
+    <g
+       id="g1127"
+       inkscape:label="circle_blue_light"
+       transform="translate(59.40333,-98.27069)"
+       inkscape:export-xdpi="12.000002"
+       inkscape:export-ydpi="12.000002">
+      <circle
+         inkscape:label="border"
+         style="display:inline;opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.82458;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:69.4677;stroke-opacity:1;paint-order:normal"
+         id="circle1123"
+         cx="38.155922"
+         cy="222.38087"
+         r="33.866665" />
+      <circle
+         cy="222.38087"
+         cx="38.155922"
+         id="circle1125"
+         style="display:inline;opacity:1;fill:#40bfff;fill-opacity:1;stroke:none;stroke-width:0.773043;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:69.4677;stroke-opacity:1;paint-order:normal"
+         inkscape:label="background"
+         r="31.75" />
+    </g>
+    <text
+       inkscape:label="X"
+       id="text1061"
+       y="144.21851"
+       x="97.586258"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:55.3148px;line-height:1.25;font-family:'Tiresias Signfont';-inkscape-font-specification:'Tiresias Signfont Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#1212b3;fill-opacity:1;stroke:none;stroke-width:0.288098"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:55.3148px;font-family:'Tiresias Signfont';-inkscape-font-specification:'Tiresias Signfont Bold';text-align:center;text-anchor:middle;fill:#1212b3;fill-opacity:1;stroke-width:0.288098"
+         y="144.21851"
+         x="97.586258"
+         id="tspan1059"
+         sodipodi:role="line">X</tspan></text>
+  </g>
+</svg>

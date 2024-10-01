@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="101.60002mm"
+   height="101.60001mm"
+   viewBox="0 0 101.60002 101.60001"
+   version="1.1"
+   id="svg6548"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="rt.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6550"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.42850028"
+     inkscape:cx="192.53196"
+     inkscape:cy="192.53196"
+     inkscape:window-width="1280"
+     inkscape:window-height="668"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs6545" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-54.47754,-97.700002)"
+     style="display:inline">
+    <g
+       transform="rotate(180,247.37211,99.650001)"
+       id="g1770"
+       inkscape:label="trigger_right"
+       style="display:inline">
+      <path
+         inkscape:export-ydpi="12"
+         inkscape:export-xdpi="12"
+         sodipodi:nodetypes="cscccc"
+         inkscape:connector-curvature="0"
+         id="path1766"
+         d="m 372.53333,0 c -18.76214,0 -33.86667,15.104534 -33.86667,33.866666 l 2e-5,67.733334 h 101.6 L 440.26666,0 Z"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:69.4677;stroke-opacity:1;paint-order:normal" />
+      <path
+         inkscape:export-ydpi="12"
+         inkscape:export-xdpi="12"
+         style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.00315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:69.4677;stroke-opacity:1;paint-order:normal"
+         d="m 372.53333,2.116666 c -17.98038,0 -31.75,14.160501 -31.75,31.75 V 99.483345 H 438.15 V 2.116666 Z"
+         id="path1768"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cscccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:55.3148px;line-height:1.25;font-family:'Tiresias Signfont';-inkscape-font-specification:'Tiresias Signfont Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.38287"
+       x="61.885647"
+       y="183.07182"
+       id="text1692"
+       inkscape:export-xdpi="12"
+       inkscape:export-ydpi="12"
+       inkscape:label="RT"><tspan
+         sodipodi:role="line"
+         id="tspan1690"
+         x="61.885643"
+         y="183.07182"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tiresias Signfont';-inkscape-font-specification:'Tiresias Signfont Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.38287">RT</tspan></text>
+  </g>
+</svg>
